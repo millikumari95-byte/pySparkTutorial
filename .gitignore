@@ -1,0 +1,31 @@
+# IntelliJ / PyCharm project files
+.idea/
+*.iml
+
+
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Jupyter notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# Spark temporary files
+spark-warehouse/
+.derby/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
